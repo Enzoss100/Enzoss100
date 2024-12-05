@@ -2,7 +2,7 @@
 
 Info:
 - Gamer
-- System Analyst w/ Thesis waiiting on me
+- System Analyst w/ Thesis waiting on me
 - Lover of Tech
 
 
@@ -15,4 +15,3 @@ Technical Info
   - Rust (Beginner)
 - Linux and Windows User
 - I use Vim, btw.
-- 
