@@ -2,7 +2,7 @@
 
 Info:
 - Gamer
-- IT Student: Specialized in Application Development
+- System Analyst w/ Thesis waiiting on me
 - Lover of Tech
 
 
@@ -14,3 +14,5 @@ Technical Info
   - Python
   - Rust (Beginner)
 - Linux and Windows User
+- I use Vim, btw.
+- 
