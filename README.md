@@ -14,4 +14,4 @@ Technical Info
   - Python
   - Rust (Beginner)
 - Linux and Windows User
-- I use Vim, btw.
+- I use Vim AND Neovim, btw.
