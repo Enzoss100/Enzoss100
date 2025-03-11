@@ -2,7 +2,7 @@
 
 Info:
 - Gamer
-- System Analyst w/ Thesis waiting on me
+- Thesis waiting on me
 - Lover of Tech
 
 
