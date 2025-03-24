@@ -15,3 +15,5 @@ Technical Info
   - Rust (Beginner)
 - Linux and Windows User
 - I use Vim AND Neovim, btw.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enzoss100)
